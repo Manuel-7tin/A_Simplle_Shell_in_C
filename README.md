@@ -1,6 +1,6 @@
 **Simple Shell Program**
 
-This is a simple shell program that allows users to execute basic shell commands. It was created using Python and is designed to be easy to use and modify.
+This is a simple shell program that allows users to execute basic shell commands. It was created using C and is designed to be easy to use and modify.
 
 
 **Getting Started**
